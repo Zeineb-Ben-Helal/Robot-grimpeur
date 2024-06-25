@@ -1,0 +1,4 @@
+git --version 
+mkdir
+cd
+git checkout -b
