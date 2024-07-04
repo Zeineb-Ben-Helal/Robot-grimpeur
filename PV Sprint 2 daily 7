@@ -11,29 +11,35 @@ Zeineb , Ilef , chaima :
 Chaima 
 
 Hier :
--chercher la bibliothèque du raspberry pi3 sur proteus 
--Recherche sur l'existance de easpberry pi 3 sur Wokwi 
+-Recherche des bibliothèques pour Raspberry Pi.
+-Recherche du logiciel Wokwi.
+-Recherche sur le module de caméra Raspberry Pi.
 
 
 Aujourd'hui :
 -Schéma de circuit servomoteur + raspberry sur ISIS 
 
 Difficultés :
-pas de resultat de simulation 
+-encore il n'existe pas de bibliothèque gratuite pour Raspberry Pi 3 dans ISIS.
+-pas de resultat de simulation 
 
 Zeineb
 Hier :
--
+-Installation de Proteus.
+-Recherche des bibliothèques pour Raspberry Pi.
+
 Aujourd'hui :
 -Télechargement QEMU sur Linux 
 
 Difficultés :
 
-
+-
 
 Ilef
 Hier :
-- 
+-Installation de Proteus.
+-Recherche des bibliothèques pour Raspberry Pi.
+
 
 
 Aujourd'hui :
@@ -41,3 +47,4 @@ Aujourd'hui :
 
 
 Difficultés :
+-
